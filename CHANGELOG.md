@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/NullVoxPopuli/ember-addon-automated-ci/compare/v1.0.1...v1.0.2) (2021-02-13)
+
+
+### Bug Fixes
+
+* resolve timing issues with compat matrix, add to README ([3e7b172](https://github.com/NullVoxPopuli/ember-addon-automated-ci/commit/3e7b17260a8a29df8f2a3ee14e066d25dc8fb2b5))
+
 ## [1.0.1](https://github.com/NullVoxPopuli/ember-addon-automated-ci/compare/v1.0.0...v1.0.1) (2021-02-13)
 
 
