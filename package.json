@@ -1,6 +1,6 @@
 {
   "name": "ember-addon-automated-ci",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Blueprint for use with ember-cli-update for adding automated dependency updates and npm releases to your ember addons",
   "keywords": [
     "ember-blueprint"
@@ -40,5 +40,4 @@
     "node": "12.20.2",
     "yarn": "1.22.10"
   }
-
 }
