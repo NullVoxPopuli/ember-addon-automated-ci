@@ -19,11 +19,14 @@ In the repository secrets, you'll need to add one token:
 Assuming your ember addon's root is also the root of the repository:
 
 ```bash
-ember-cli-update init ember-addon-automated-ci
+ember-cli-update init -b ember-addon-automated-ci
 ```
 
 During init, there will be conflicts that need resolving, but after that,
 things should hopefully "just work"
+
+If this is your first time using ember-cli-update, you'll want to familiarize
+yourself with https://github.com/ember-cli/ember-cli-update/wiki/Getting-Started
 
 ## Support
 

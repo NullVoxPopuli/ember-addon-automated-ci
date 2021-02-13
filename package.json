@@ -11,6 +11,7 @@
   "repository": "https://github.com/NullVoxPopuli/ember-addon-automated-ci",
   "license": "MIT",
   "author": "NullVoxPopuli",
+  "main": "index.js",
   "dependencies": {},
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
