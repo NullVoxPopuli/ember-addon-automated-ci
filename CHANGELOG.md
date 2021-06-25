@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/NullVoxPopuli/ember-addon-automated-ci/compare/v1.0.2...v1.0.3) (2021-06-25)
+
+
+### Bug Fixes
+
+* **renovate:** disable updates to peerDependencies ([5f10c4a](https://github.com/NullVoxPopuli/ember-addon-automated-ci/commit/5f10c4ab7bc0d479a4163ad6cee19d1c881daa08))
+
 ## [1.0.2](https://github.com/NullVoxPopuli/ember-addon-automated-ci/compare/v1.0.1...v1.0.2) (2021-02-13)
 
 
