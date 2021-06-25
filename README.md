@@ -61,4 +61,9 @@ yourself with https://github.com/ember-cli/ember-cli-update/wiki/Getting-Started
 
 ## Support
 
+Dependency Managers
 - yarn
+
+Default Branches
+- main
+- master
