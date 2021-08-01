@@ -1,0 +1,45 @@
+// Docs:
+// https://docs.renovatebot.com/configuration-options/
+{
+  "extends": [
+    "config:base",
+    ":semanticCommits"
+  ],
+  "automerge": true,
+  "masterIssue": true,
+  "rangeStrategy": "bump",
+  // From the docs:
+  // https://docs.renovatebot.com/configuration-options/#packagerules
+  // Important to know: Renovate will evaluate all packageRules and not stop once it gets a first match.
+  // Therefore, you should order your packageRules in order of importance so that later rules can override
+  // settings from earlier rules if necessary.
+  //
+  // (so if something is to be disabled, place that rule last)
+  "packageRules": [
+    ////////////////////////////////////////
+    // Grouping namespaced packages together
+    //
+    // This reduces overall PR count
+    ////////////////////////////////////////
+    {
+      "groupName": "Semantic",
+      "schedule": ["after 9pm on sunday"],
+      "packagePatterns": [
+        "semantic*",
+        "@semantic*",
+      ]
+    },
+    {
+      "groupName": "Commitlint",
+      "schedule": ["after 9pm on sunday"],
+      "packagePatterns": [
+        "@commitlint*"
+      ]
+    },
+    {
+      // changing peerDependencies *at all* is a breaking change
+      "matchDepTypes": ["peerDependencies"],
+      "enabled": false
+    }
+  ]
+}
