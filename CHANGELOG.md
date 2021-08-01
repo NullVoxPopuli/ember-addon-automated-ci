@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/NullVoxPopuli/ember-addon-automated-ci/compare/v1.0.3...v1.1.0) (2021-08-01)
+
+
+### Features
+
+* **commits:** loosen commitlint settings ([95153e0](https://github.com/NullVoxPopuli/ember-addon-automated-ci/commit/95153e061a4c4ce0e8d45dc7a7ea37663af0befb))
+
 ## [1.0.3](https://github.com/NullVoxPopuli/ember-addon-automated-ci/compare/v1.0.2...v1.0.3) (2021-06-25)
 
 
