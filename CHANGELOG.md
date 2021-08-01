@@ -1,3 +1,22 @@
+# [2.0.0](https://github.com/NullVoxPopuli/ember-addon-automated-ci/compare/v1.1.0...v2.0.0) (2021-08-01)
+
+
+### Features
+
+* **ci:** general updates ([7e4b9f2](https://github.com/NullVoxPopuli/ember-addon-automated-ci/commit/7e4b9f2012dff5c76f4f450ae3835459f46277df))
+
+
+### BREAKING CHANGES
+
+* **ci:** updated ember-cli-update-action if condition
+
+**Features**
+ - added type checking workflow
+ - added dependencing caching to optimize lint/type job run speed
+
+**Fixes**
+ - main/master branch now supported in all workflow files
+
 # [1.1.0](https://github.com/NullVoxPopuli/ember-addon-automated-ci/compare/v1.0.3...v1.1.0) (2021-08-01)
 
 
