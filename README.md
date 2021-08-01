@@ -8,6 +8,8 @@
 - ember-try with node 12, 14 and all the latest Ember LTS releases
 - Weekly cron so that floating dependency changes can catch potential problems
 - Supports `[skip ci]` commits
+- Cached dependencies for faster job runs
+- ember-cli-update-action so that blueprints can stay up to date
 
 ### Requirements
 
