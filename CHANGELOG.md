@@ -1,3 +1,16 @@
+# [2.1.0](https://github.com/NullVoxPopuli/ember-addon-automated-ci/compare/v2.0.0...v2.1.0) (2021-08-17)
+
+
+### Bug Fixes
+
+* force blueprint to bump versions ([0c69fc8](https://github.com/NullVoxPopuli/ember-addon-automated-ci/commit/0c69fc8801f5bbf9a023f1629cab5fb489a46fc0))
+
+
+### Features
+
+* support alternate range-strategy for non-addons, change addon default to lockfile change ([8c93634](https://github.com/NullVoxPopuli/ember-addon-automated-ci/commit/8c93634ad5992dc0c72288b0432118310bb6fbfa))
+* update try-scenarios ([89b3e01](https://github.com/NullVoxPopuli/ember-addon-automated-ci/commit/89b3e01f2141adbd60fe5ef56fb72da0c7fa20ce))
+
 # [2.0.0](https://github.com/NullVoxPopuli/ember-addon-automated-ci/compare/v1.1.0...v2.0.0) (2021-08-01)
 
 
