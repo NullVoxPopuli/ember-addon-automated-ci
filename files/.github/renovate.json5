@@ -26,7 +26,13 @@
     {
       "groupName": "Type Definitions",
       "packagePatterns": ["^@types\/*"],
-      "schedule": ["after 9pm on sunday"],
+      "schedule": ["after 9pm on sunday"]
+    },
+    // This library needs to be bumped, because otherwise we would not
+    // receive blueprint updates whenever a release occurs
+    {
+      "packageNames": ["ember-addon-automated-ci"],
+      "rangeStrategy": "bump"
     },
     {
       "groupName": "Lint Dependencies",
