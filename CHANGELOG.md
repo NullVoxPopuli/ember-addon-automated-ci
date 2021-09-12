@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/NullVoxPopuli/ember-addon-automated-ci/compare/v2.1.0...v2.1.1) (2021-09-12)
+
+
+### Bug Fixes
+
+* **files/ci:** ember-cli-update-action should work now ([d2ee3e6](https://github.com/NullVoxPopuli/ember-addon-automated-ci/commit/d2ee3e63ec714a67989311844da93f5451b0fd5c))
+
 # [2.1.0](https://github.com/NullVoxPopuli/ember-addon-automated-ci/compare/v2.0.0...v2.1.0) (2021-08-17)
 
 
