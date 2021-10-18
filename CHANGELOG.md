@@ -1,3 +1,10 @@
+## [2.1.2](https://github.com/NullVoxPopuli/ember-addon-automated-ci/compare/v2.1.1...v2.1.2) (2021-10-18)
+
+
+### Bug Fixes
+
+* add semantic-release cli check ([f1b3ce5](https://github.com/NullVoxPopuli/ember-addon-automated-ci/commit/f1b3ce5a1d53166923916410b0a65734900178ef))
+
 ## [2.1.1](https://github.com/NullVoxPopuli/ember-addon-automated-ci/compare/v2.1.0...v2.1.1) (2021-09-12)
 
 
