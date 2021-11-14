@@ -1,3 +1,10 @@
+## [2.1.4](https://github.com/NullVoxPopuli/ember-addon-automated-ci/compare/v2.1.3...v2.1.4) (2021-11-14)
+
+
+### Bug Fixes
+
+* **renovate:** prevent breaking changes via engines changes ([fecf8ab](https://github.com/NullVoxPopuli/ember-addon-automated-ci/commit/fecf8aba3ff4a68a92953f0791a13de170135ab1))
+
 ## [2.1.3](https://github.com/NullVoxPopuli/ember-addon-automated-ci/compare/v2.1.2...v2.1.3) (2021-11-11)
 
 
