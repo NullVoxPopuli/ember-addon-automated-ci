@@ -1,8 +1,8 @@
 {
   "devDependencies": {
     "ember-addon-automated-ci": "<%= automatedCiVersion %>",
-    "@commitlint/cli": "^17.5.1",
-    "@commitlint/config-conventional": "^17.4.4",
+    "@commitlint/cli": "^17.6.1",
+    "@commitlint/config-conventional": "^17.6.1",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "semantic-release": "^21.0.1"
