@@ -20,7 +20,7 @@ jobs:
     # needs: [tests]
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           persist-credentials: false
       - uses: volta-cli/action@v4
