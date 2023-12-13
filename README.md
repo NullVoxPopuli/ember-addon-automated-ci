@@ -1,3 +1,7 @@
+# Archived
+
+Using `wyvox/action` instead, which allows for concise workflows in a much more extendable way
+
 # ember-addon-automated-ci
 
 ## Features
